@@ -1,0 +1,426 @@
+* {
+    margin: 0 auto;
+}
+
+.nav {
+    width: 100%;
+    height: 14px;
+    background-color: #ffffff00;
+    position: relative;
+    top: 0px;
+    justify-content: space-between;
+}
+
+.LOGO {
+    top: 30px;
+    margin-left: 150px;
+    position: relative;
+    left: 90px;
+}
+
+.nav2 {
+    display: flex;
+    margin-left: 1000px;
+}
+
+.text1 {
+    color: #545b66;
+    font-size: 16px;
+    display: flex;
+    padding: 20px;
+    margin: 2px;
+    padding-left: 80px;
+    float: left;
+    position: relative;
+    top: -20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.group1 {
+    width: 100%;
+    height: 844px;
+    background-color: #54A3DA;
+    position: relative;
+    top: 100px;
+}
+
+.cont1 {
+    position: relative;
+    width: 1300px;
+    height: 608px;
+    background-color: #2d394c00;
+    top: 170px;
+}
+
+.banner_left {
+    position: relative;
+    height: 349px;
+    width: 576px;
+    background-color: rgba(250, 235, 215, 0);
+    float: left;
+    top: 150px;
+}
+
+.Track_your_next_fuel_shops {
+    color: cornsilk;
+    text-align: left;
+    font-size: 52px;
+    width: 482px;
+    height: 110px;
+}
+
+.track {
+    color: cornsilk;
+    text-align: left;
+    font-size: 52px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Monitor {
+    font-size: 19px;
+    color: cornsilk;
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top: 20px;
+}
+
+.FREE {
+    font-size: 19px;
+    color: cornsilk;
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top: 70px;
+}
+
+.FREE2 {
+    background-color: rgb(233, 213, 31);
+    border-radius: 10%;
+}
+
+.postcard {
+    max-width: 574px;
+    height: 100px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+    width: 500px;
+    position: relative;
+    top: 150px;
+}
+
+.form-row input[type="email"] {
+    width: 300px;
+    padding: 10px;
+    line-height: 35px;
+    border-width: 0;
+    outline: none;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 10px;
+    float: left;
+}
+
+.submit-button {
+    display: inline-block;
+    padding: 5px;
+    padding-right: 50%;
+}
+
+.submit-button input {
+    padding: 19px;
+    background: #77C344;
+    border-width: 0;
+    outline: none;
+    border: 2px solid #77C344;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    float: right;
+    position: relative;
+    top: 70px;
+    left: 380px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hand_img {
+    width: 500px;
+    height: 675px;
+    background-color: rgba(255, 255, 0, 0);
+    position: relative;
+    top: 00px;
+    float: right;
+}
+
+.hand1 {
+    position: relative;
+    top: -70px;
+}
+
+.cline {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    top: 100px;
+    position: relative;
+}
+
+.ell {
+    width: 100%;
+}
+
+.box3 {
+    margin: 0 auto;
+    width: 100%;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
+
+.WHY_Tank_App {
+    text-align: center;
+    position: relative;
+    top: 130px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 40px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.text-box3 {
+    position: relative;
+    top: 200px;
+    margin-left: 200px;
+}
+
+.text-03 {
+    font-family: 'Lato', sans-serif;
+    color: rgb(41, 40, 40);
+    font-size: 22px;
+    position: relative;
+    margin-left: 60px;
+    top: -0px;
+}
+
+.text-023 {
+    font-size: 14px;
+    color: rgb(117, 116, 116);
+    font-family: 'Lato', sans-serif;
+    top: 10px;
+}
+
+.macbook {
+    width: 1000px;
+    position: relative;
+    top: -330px;
+    margin-left: 1000px;
+}
+
+.img_03 {
+    position: relative;
+    top: 30px;
+}
+
+.box4 {
+    margin: 0 auto;
+    width: 1700px;
+    height: 700px;
+    background-color: rgb(241, 241, 241);
+}
+
+.WHY_Tank_App {
+    text-align: center;
+    position: relative;
+    top: 160px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 40px;
+}
+
+.box04 {
+    position: relative;
+    top: 300px;
+    margin-left: 150px;
+}
+
+.text_04w {
+    font-family: 'Lato', sans-serif;
+    color: rgb(41, 40, 40);
+    font-size: 22px;
+    position: relative;
+    margin-left: 60px;
+    top: -30px;
+}
+
+.yexy042x {
+    font-size: 16px;
+    color: rgb(117, 116, 116);
+    font-family: 'Lato', sans-serif;
+    top: 10px;
+}
+
+.img_kor {
+    position: relative;
+    top: 200px;
+    margin-left: 1000px;
+}
+
+.cif {
+    color: #2D394C;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    top: 260px;
+    margin-left: 800px;
+}
+
+.harik {
+    position: relative;
+    top: 207px;
+    margin-left: 1003px;
+}
+
+.one {
+    background-color: skyblue;
+    border-radius: 100%;
+}
+
+.box5 {
+    margin: 0 auto;
+    width: 1700px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+}
+
+.SAVE {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 40px;
+}
+
+.Using_our_cloud {
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 24px;
+    font-family: 'Marcellus', serif;
+}
+
+.em {
+    position: relative;
+    top: 250px;
+    margin-left: 400px;
+}
+
+.input1002 {
+    width: 600px;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid rgb(158, 158, 158);
+    position: relative;
+    top: 50px;
+}
+
+.a-2 {
+    position: relative;
+    width: 150px;
+    height: 60px;
+    background-color: rgb(160, 212, 82);
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    margin-left: 650px;
+    top: -10px;
+}
+
+.a-box1 {
+    position: relative;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(174, 231, 87);
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    margin-left: 460px;
+    text-decoration: none;
+}
+
+.SIGNUP {
+    font-size: 16px;
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    top: -1px;
+}
+
+.menu2 {
+    margin: 0 auto;
+    width: 1700px;
+    height: 100px;
+    background-color: rgb(248, 247, 247);
+}
+
+.tankapp2 {
+    position: relative;
+    margin-left: 30px;
+}
+
+.tank2 {
+    font-size: 41px;
+    top: 50px;
+    position: relative;
+    margin-left: 100px;
+    font-family: 'Nunito', sans-serif;
+    color: #2D394C;
+}
+
+.APP2 {
+    font-size: 41px;
+    position: relative;
+    margin-left: 214px;
+    top: -30px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(194, 194, 194);
+}
+
+.nav22 {
+    position: relative;
+    top: -90px;
+    margin-left: 1000px;
+    margin-left: 800px;
+}
+
+.text-nav2 {
+    font-size: 12px;
+    margin-bottom: 90px;
+    padding: 30px;
+    top: 10px;
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+    font-family: 'Lato', sans-serif;
+}
+
+.img6 {
+    position: relative;
+    top: -110px;
+    margin-left: 1470px;
+}
